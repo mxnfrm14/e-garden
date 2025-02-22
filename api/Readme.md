@@ -43,6 +43,7 @@ Ensuite dans le menu de configuration du lanceur, il faut cliquer "Modifier opti
 Une fois ajouté, un champ supplémentaire apparait, nommé Variables d'environnement, il faudra ajouter le chemin absolu du fichier .env, exemple : `/User/Desktop/Projet/egarden/api/.env `.
 En fonction de votre ordinateur et d'IDEA, il faudra ajouter dans `Projet Structure`, puis `Projet` le SDK de Java 23, l'outil vous proposera de le télécharger automatique. 
 De plus, avant de lancer la configuration l'IDE vous demandera d'installer tous les packages (les dépendances), dans l'IDE dans la partie `Maven`, ensuite `api`, ensuite `Lifecycle` et vous pouvez cliquer sur `Install`, et les installera.
+Un compte existe au lancement : **email** : `admind@egarden.fr` ; **mot de passe** : `admin`
 
 ## Les Tests
 Notre projet comprend un test, à chaque déploiement le test est éxécuté et vérifie que le contexte est bien chargé. 
