@@ -1,10 +1,10 @@
 # E-Garden
 Le projet E-garden est créé dans le cadre de projets au sein de l'École Centrale d'Électronique (ECE) à Paris. 
-Ce projet étudiant regroupe un projet de fin d'étude (PFE) et deux projets de (PPE).
-Il permet d'ajouter de la sécurité au potager, de l'arrosage automatique et de controller plusieurs fonctionnalités à distance via une application.
+Ce projet étudiant regroupe un projet de fin d'études (PFE) et deux projets pluridisciplinaires (PPE).
+Il permet d'ajouter de la sécurité au potager, de l'arrosage automatique et de contrôler plusieurs fonctionnalités à distance via une application.
 
 ## Collaboration
-La collaboration entre groupe est organisé.
+La collaboration entre groupes est organisée.
 Le contact pour le PFE Sécurité est **enzo.romero@edu.ece.fr**.
 
 ## Aspects techniques

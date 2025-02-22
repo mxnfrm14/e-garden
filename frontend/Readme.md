@@ -1,12 +1,12 @@
 # L'application Nuxt JS
-L'application est développé avec la technologie Nuxt.js.
+L'application est développée avec la technologie Nuxt.js.
 Le projet intègre des composants de NuxtUI.
-Davantage d'informations sont disponibles sur le site de NUXT. Consultez la documentation Nuxt [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction), [deployment documentation](https://nuxt.com/docs/getting-started/deployment) pour en savoir plus. 
+D'avantage d'informations sont disponibles sur le site de NUXT. Consultez la documentation Nuxt [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction), [deployment documentation](https://nuxt.com/docs/getting-started/deployment) pour en savoir plus. 
 
 ## Les prérequis
-Vous devez avoir un NodeJS d'installer, avec la version la plus récente.
-Pour vérifier la version, utiliser la commande : `node -v`
-Dans le cas ou NodeJS n'est pas installé sur votre PC, veuillez l'installer via `brew` (MacOS), `apt-install` (Linux).
+Vous devez avoir un NodeJS d'installé, avec la version la plus récente.
+Pour vérifier la version, utilisez la commande : `node -v`
+Dans le cas où NodeJS n'est pas installé sur votre PC, veuillez l'installer via `brew` (MacOS), `apt-install` (Linux).
 
 ## L'API
 Pour fonctionner l'application Web a besoin de données.
@@ -23,7 +23,7 @@ Trois pages ne nécessitent pas ce contrôle : *login*, *unauthorized*, *index*.
 
 Autrement les pages ne fonctionnent qu'en présence d'un Token utilisateur valide.
 Le Token est utilisé pour faire des demandes de données auprès du back-end.
-Si le Token est invalide, une erreur sera retourné.
+Si le Token est invalide, une erreur sera retournée.
 
 ## Le lancement du projet
 1. La première étape est de cloner le projet sur votre PC depuis le dépot Github :
